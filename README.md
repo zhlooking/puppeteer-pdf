@@ -1,2 +1,2 @@
 # puppeteer-pdf
-puppeteer debug demo
+puppeteer generate pdf from html pages demo
